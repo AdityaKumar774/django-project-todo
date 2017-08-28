@@ -1,3 +1,16 @@
+body{
+    background-color: darkkhaki;
+    text-align: center;
+}
+
 a{
     color: #008000;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    font-size: 40px;
 }
